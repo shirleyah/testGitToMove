@@ -4,3 +4,4 @@ Alquicira
 Hernandez
 CCG
 unam
+para checkout
