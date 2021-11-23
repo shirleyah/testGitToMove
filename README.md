@@ -1,6 +1,6 @@
 # Repositorio de la clase de Python  
 
-# Descripción   
+# Descripción     
 
 En este repositorio encontrarás notas del curso de Python II, scripts y documentos complementarios.
 
