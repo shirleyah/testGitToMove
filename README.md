@@ -13,7 +13,7 @@ Para la ejecución de los programas se requiere:
 
 # Licencia
 
-Para ver detalles de la licencia ver el archivo \[LICENSE](./LICENSE)
+Para ver detalles de la licencia ver el archivo [LICENSE](./LICENSE)
   
 
 # Contacto
